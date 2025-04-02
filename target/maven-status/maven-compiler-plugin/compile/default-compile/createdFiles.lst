@@ -1,0 +1,8 @@
+ge\itvet\homework\enums\Transport.class
+ge\itvet\homework\model\dto\ClientDto.class
+ge\itvet\homework\controller\CourierController.class
+ge\itvet\homework\enums\Status.class
+ge\itvet\homework\domain\Order.class
+ge\itvet\homework\enums\OrderStatus.class
+ge\itvet\homework\domain\Courier.class
+ge\itvet\homework\domain\Client.class
