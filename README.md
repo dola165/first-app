@@ -1,5 +1,5 @@
 # first-app
-**This was my first app ever. Haven't gone back to improve it yet. I am going over everything I've learned before writing new apps or rewriting old ones.**
+**This was the first app I ever built. I haven't revisited it for improvements yet, as I'm currently reviewing everything I've learned before developing new applications or refining existing ones.**
 
 ## Introduce Spring Boot Web & Data JPA
 # Courier Service
